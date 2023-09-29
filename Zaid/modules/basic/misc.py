@@ -17,7 +17,7 @@ if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** SIXTY NINE**\n\n"
+        f"** SIXTY NINE **\n\n"
         f"❏ **νєяѕισи**: `2.1`\n"
         f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **ρутнσи**: `{python_version()}`\n"
