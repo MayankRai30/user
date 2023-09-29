@@ -11,7 +11,7 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg"
+alive_logo = ALIVE_PIC or "http://telegra.ph/file/fbae33f27594a1693d964.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
